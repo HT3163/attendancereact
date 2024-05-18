@@ -32,6 +32,7 @@ const Homepage = () => {
                                     Login
                                 </LightPurpleButton>
                             </StyledLink>
+                            <a href='/choose' id='btn1'>Login Page</a>
                             <StyledLink to="/chooseasguest">
                                 <Button variant="outlined" fullWidth
                                     sx={{ mt: 2, mb: 3, color: "#7f56da", borderColor: "#7f56da" }}
